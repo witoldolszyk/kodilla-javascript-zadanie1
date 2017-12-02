@@ -1,5 +1,5 @@
 // scripts.js
 
-var name = prompt('Enter your name');
-alert('Hello, ' + name);
-console.log('Hello, ' + name);
+var date = prompt('Enter your age');
+alert('Będziemy pamiętać o twoich urodzinach, ' + date);
+console.log('Będziemy pamiętać o twoich urodzinach,  ' + date);
